@@ -190,3 +190,4 @@ C:\Users\Boina\OneDrive\Desktop\GSU Sems\GSU Sem-3\Internet Programming\Equinox\
 C:\Users\Boina\OneDrive\Desktop\GSU Sems\GSU Sem-3\Internet Programming\Equinox\Equinox\obj\Debug\net9.0\Equinox.pdb
 C:\Users\Boina\OneDrive\Desktop\GSU Sems\GSU Sem-3\Internet Programming\Equinox\Equinox\obj\Debug\net9.0\Equinox.genruntimeconfig.cache
 C:\Users\Boina\OneDrive\Desktop\GSU Sems\GSU Sem-3\Internet Programming\Equinox\Equinox\obj\Debug\net9.0\ref\Equinox.dll
+C:\Users\Boina\OneDrive\Desktop\GSU Sems\GSU Sem-3\Internet Programming\Equinox\Equinox\obj\Debug\net9.0\Equinox.sourcelink.json
